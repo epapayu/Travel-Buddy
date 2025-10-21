@@ -1,0 +1,8 @@
+{
+  "name": "AI Travel Buddy",
+  "description": "An interactive travel buddy that uses your camera and voice to tell you about the world around you. Point your camera at a landmark and ask questions to learn its history and cultural significance in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
